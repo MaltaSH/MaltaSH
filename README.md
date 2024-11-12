@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Malta</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
